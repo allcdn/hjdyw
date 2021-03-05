@@ -7,7 +7,7 @@
 body{ padding-top: 80px}
 
 /* header */
-.stui-header__top{ position:fixed; top:0;z-index: 999;width:100%; height: 60px; background:linear-gradient(to right, #1d3352, #c779d0, #4bc0c8 100%); }
+.stui-header__top{ position:fixed; top:0;z-index: 999;width:100%; height: 60px; background:linear-gradient(to right, #4bc0c8, #c779d0, #1d3352 100%); }
 .top-fixed-down{margin-top:-60px}
 .stui-header__side{float:right}
 
